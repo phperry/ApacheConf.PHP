@@ -6,10 +6,10 @@ Code licensed under **Apache License Version 2.0**.
 
 ### Requirements
 
-* PHP5 >= 5.5;
+* PHP5 >= 5.5, PHP7;
 * Apache2 >= 2.4.
 
-**NOTE:** Working with the earlier versions has not been tested.
+**NOTE:** Working with the earlier versions were not tested, but it is possible that everything is working.
 
 ### How to use?
 
